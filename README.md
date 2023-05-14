@@ -60,8 +60,5 @@ Here are the steps of BFMatch:
 * Median filtering is applied using the median technique.
 * The standard deviation is tuned, with σ=100 as the standard deviation for vertical angle and σ=0.15 as the standard deviation for distances.
 
-
-
-
-
+![image](https://github.com/ibrahimhamada/Iris-Recongition-using-SIFT/assets/58476343/aee6c42b-86c6-4209-9c55-d6f3ba683f4c)
 
